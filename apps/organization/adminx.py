@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
-__date__ = '2016/10/25 23:52'
+__author__ = 'shenjihehe'
+__date__ = '2017/10/21 23:52'
 import xadmin
 
 from .models import CityDict, CourseOrg, Teacher

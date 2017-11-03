@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__author__ = 'bobby'
+__author__ = 'shenjihehe'
 
 import xadmin
 from xadmin.views import BaseAdminPlugin, CreateAdminView, ModelFormAdminView, UpdateAdminView

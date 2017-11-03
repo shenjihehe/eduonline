@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
-__date__ = '2016/10/30 22:11'
+__author__ = 'shenjihehe'
+__date__ = '2017/10/23 22:11'
 from random import Random
 from django.core.mail import send_mail
 
